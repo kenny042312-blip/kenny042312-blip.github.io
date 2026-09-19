@@ -1,0 +1,1 @@
+window.MYSTERY_CONFIG={"supabaseUrl":"https://uvvimtlynfbrocmfcndy.supabase.co","supabaseKey":"sb_publishable__16XnDZNss_rtl9Adpb81w_OcIT4_Sh","origin":"https://kenny042312-blip.github.io","preview":false};
