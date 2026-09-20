@@ -1,0 +1,4 @@
+Contact: mailto:kenny042312@gmail.com
+Expires: 2027-09-20T03:19:14.332Z
+Canonical: https://kenny042312-blip.github.io/.well-known/security.txt
+Preferred-Languages: en
